@@ -1,0 +1,2 @@
+# BuildConfig
+game config tool
